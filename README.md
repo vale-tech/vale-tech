@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡ Fun fact: Vale Was Here
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vale-tech&theme=radical)](https://git.io/streak-stats)
