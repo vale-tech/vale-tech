@@ -1,4 +1,8 @@
-### Hi there 👋
+### Howdy 👋
+
+I am a systems analyst and developer living and working in Northern Nevada. I enjoy traveling, cooking, and exploring technology.
+
+My personal website is at: [valetrujillo.com](https://valetrujillo.com/) 😄😄😄
 
 <!--
 **vale-tech/vale-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
