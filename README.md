@@ -23,5 +23,8 @@ Here are some ideas to get you started:
 
 [![vale-tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=vale-tech&show_icons=true&count_private=true&theme=radical)](https://github.com/vale-tech/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vale-tech&repo=vale-tech)](https://github.com/vale-tech/vale-tech)
+
+
 
 
