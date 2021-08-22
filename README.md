@@ -21,4 +21,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vale-tech&theme=radical)](https://git.io/streak-stats)
 
+[![vale-tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=vale-tech)](https://github.com/vale-tech/github-readme-stats)
+
+
 
